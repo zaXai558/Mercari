@@ -1,0 +1,5 @@
+input/
+.vscode/
+* .7z
+*.tsv
+*.zip
