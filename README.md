@@ -40,6 +40,7 @@ Note: The data has been preprocessed to remove text resembling prices to avoid l
 I conducted extensive EDA to explore the dataset, visualize distributions, analyze correlations, and identify factors influencing product prices. Through visualizations and statistical analysis, I gained valuable insights into the dataset's characteristics.
 
 ### Machine Learning
+X Pending Task
 Using ML algorithms, I trained predictive models to estimate product prices based on the provided dataset. I experimented with various models, performed feature engineering, and optimized model performance to achieve accurate pricing predictions.
 
 ## Showcase of Work
